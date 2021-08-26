@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1104&label=Profile%20views&color=red&style=flat" alt="prince1104" /> </p>
 
 Hi, "I'm [PRINCE PATEL],looking for an INTERNSHIP to kickstart my career in the DATA
 ANALYTICS. I wish to work in a dynamic organization that will contribute to my professional and personal growth while I
