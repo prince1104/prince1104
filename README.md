@@ -29,6 +29,15 @@ Lets share our knowledge through this platform and grow together."
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
   <hr>
   <p align="center">
+  
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Featured Repositories...***
+<p align="left">
+  
+  
+<p align = "center">
+<a href = "https://github.com/prince1104/atliQ-hardware-sales-insight"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=atliQ-hardware-sales-insight&theme=tokyonight"> </a> 
+<a href = "https://github.com/prince1104/Predicting-Term-Deposit-Subscription"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=Predicting-Term-Deposit-Subscription&theme=tokyonight"> </a>  </p>
+
 
 📈 **My GitHub Stats**
 
