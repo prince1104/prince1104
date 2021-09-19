@@ -1,8 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1104&label=Profile%20views&color=red&style=flat" alt="prince1104" /> </p>
 
-Hi, "I'm [PRINCE PATEL],looking for an INTERNSHIP to kickstart my career in the DATA
-ANALYTICS. I wish to work in a dynamic organization that will contribute to my professional and personal growth while I
-contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
+### Hi there 👋, "I'm [PRINCE PATEL]
+Looking for an INTERNSHIP to kickstart my career in the DATA ANALYTICS. I wish to work in a dynamic organization that will contribute to my professional 
+and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
 
 "I am really keen to learn about the new technological advancement, mainly in the field of Data science and AI.
 The possibility of creating a semi-intelligent system, which can make our lives easier and help a lot of people in various domains is really exciting to me.
