@@ -1,6 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prince1104&label=Profile%20views&color=red&style=flat" alt="prince1104" /> </p>
 
-### Hi there 👋, I'm [PRINCE PATEL]
+### Hi there 👋, I'm [PRINCE PATEL] 
+</em></p>
 Looking for an INTERNSHIP to kickstart my career in the DATA ANALYTICS. I wish to work in a dynamic organization that will contribute to my professional 
 and personal growth while I contribute to the growth of the company as well as engage in opportunities to further the company’s goals.”
 
@@ -12,7 +13,7 @@ Lets share our knowledge through this platform and grow together."
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [meetprincepatel1104@gmail.com](mailto:meetprincepatel1104@gmail.com);
-### RESUME :- https://github.com/prince1104/resume/blob/main/Resume.pdf
+- ### RESUME :- https://github.com/prince1104/resume/blob/main/Resume.pdf <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 ---
 
 **Languages and Tools:**  
