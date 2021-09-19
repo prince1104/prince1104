@@ -13,7 +13,7 @@ Lets share our knowledge through this platform and grow together."
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [meetprincepatel1104@gmail.com](mailto:meetprincepatel1104@gmail.com);
-- RESUME :- https://github.com/prince1104/resume/blob/main/Resume.pdf <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+- [Resume.pdf](https://github.com/prince1104/resume/files/7191570/Resume.pdf) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 ---
 
 **Languages and Tools:**  
@@ -33,5 +33,4 @@ Lets share our knowledge through this platform and grow together."
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-  
   
