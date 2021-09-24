@@ -36,10 +36,10 @@ Lets share our knowledge through this platform and grow together."
   
   
 <p align = "center">
-<a href = "https://github.com/prince1104/atliQ-hardware-sales-insight"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=atliQ-hardware-sales-insight&theme=tokyonight"> </a>
 <a href = "https://github.com/prince1104/Electronics-Store-Purchase-Data-Analysis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=Electronics-Store-Purchase-Data-Analysis&theme=tokyonight"> </a> 
+<a href = "https://github.com/prince1104/Predicting-Term-Deposit-Subscription"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=Predicting-Term-Deposit-Subscription&theme=tokyonight"> </a> 
 <p align = "center">
-<a href = "https://github.com/prince1104/Predicting-Term-Deposit-Subscription"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=Predicting-Term-Deposit-Subscription&theme=tokyonight"> </a>  </p>
+<a href = "https://github.com/prince1104/atliQ-hardware-sales-insight"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=prince1104&repo=atliQ-hardware-sales-insight&theme=tokyonight"> </a>  </p>
 
 
 
