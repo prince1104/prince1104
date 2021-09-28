@@ -45,7 +45,7 @@ Lets share our knowledge through this platform and grow together."
 ---
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My GitHub Stats...***
   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1104&theme=algolia" alt="prince1104"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prince1104&theme=algolia" alt="prince1104"/></p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prince1104&show_icons=true&theme=dracula&count_private=true" alt="prince1104"/>
 
 ---
