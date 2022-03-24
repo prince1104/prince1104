@@ -13,7 +13,6 @@ Lets share our knowledge through this platform and grow together."
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [meetprincepatel1104@gmail.com](mailto:meetprincepatel1104@gmail.com);
-- 📝 [Resume.pdf](https://github.com/prince1104/Resume/files/7191620/Resume.pdf) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 ---
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
