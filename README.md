@@ -18,7 +18,7 @@ Lets share our knowledge through this platform and grow together."
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code> <img src="https://content.techgig.com/technology/uipath-partners-with-guvi-to-train-learners-in-software-automation/articleshow/82102502.png" width="100"></code>
+  <code> <img src="https://www.uipath.com/.png" width="100"></code>
   <code> <img src="https://img2.pngio.com/excel-2013-icon-png-download-excel-2013-icon-png-download-excel-icon-png-840_425.png" width="100"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55"></code>
